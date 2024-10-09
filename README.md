@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding, web development, and new technologies.
 - 🌱 I’m currently learning React and improving my skills in full-stack development.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: You can contact me via [sandunlakmal2001@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/sandun lakmal).
+- 📫 How to reach me: You can contact me via [sandunlakmal2001@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/sandun-lakmal).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a problem-solving enthusiast who enjoys exploring new frameworks and tech tools.
